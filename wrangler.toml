@@ -1,6 +1,6 @@
 name = "ecoulson-cloudflare-app"
 type = "webpack"
-account_id = "wrangler generate my-app https://github.com/cloudflare/worker-sites-template"
+account_id = "ecb211bbeb17ae7ac84ad0b52c78f3a9"
 workers_dev = true
 route = ""
 zone_id = ""
